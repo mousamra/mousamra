@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Mousam Rai 👋<br> About Me<br>I'm a Salesforce Developer & Python/Java enthusiast. I love building projects and contributing to open-source.
+# Hi, I'm Mousam Rai 👋<br> About Me<br>I'm a Salesforce Developer & Java/Python enthusiast. I love building projects and contributing to open-source.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mousam-rai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mousamrai2114@gmail.com) 
